@@ -8,16 +8,16 @@ This repository is devoted to share resources among all Formula Student Driverle
 
 - [Conference Papers & Journal Articles ](#papers)
 - [Reports](#reports)
-
+- [Videos](#videos)
 ___
 <br>
 
 <a name="datasets"></a>
-# Datesets
+# Datasets
 This section is devoted to share data collected in, or related to, Formula Student Driverless Vehicles.
 
 <a name="amz_driverless_2017"></a>
-## AMZ driverless 2017
+## AMZ Driverless 2017 Dataset
 - The data can be found in this [link](https://www.dropbox.com/s/7x75ks6vo2npfv3/AMZ_driverless_2017_dataset.bag.tar.gz?dl=0)
 
 - The data comes in .bag format. This is the standard logging format for ROS and it can be easily imported to matlab using available tools. 
@@ -57,7 +57,7 @@ This section is devoted to share videos related to Formula Student Driverless Ve
 - KIT driverless in action: [link](https://www.youtube.com/watch?v=tzZK_nNyr8A)
 
 <a name="videos_dv_algorithm"></a>
-## Videos displaying some Algorithms and Formula Student Driverless Vehicles
+## Videos of Algorithms and Formula Student Driverless Vehicles
 
 - AMZ driverless displaying trajectory: [link](https://www.youtube.com/watch?v=FbKLE7uar9Y)
 - EcurieAix driverless displaying cone detection and trajectory: [link](https://www.youtube.com/watch?v=4ah5aZ09i6g)
