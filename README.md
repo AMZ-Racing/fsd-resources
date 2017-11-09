@@ -1,6 +1,6 @@
 # Formula Student Driverless Resources
  
-This repository is devoted to share resources among all Formula Student Driverless teams as well as all other interested parts developing Software and Hardware for autonomous driving and racing. We beilive driverless racing is a hard enough challenge and if we share some our achievments and resources we can accelerate the development of the whole community. Please feel invited to do a pull request and add any dataset, report, or video that can be intereting for the whole community.  
+This repository is devoted to share resources among all Formula Student Driverless teams as well as all other interested parts developing Software and Hardware for autonomous driving and racing. We believe driverless racing is a hard enough challenge and if we share some our achievments and resources we can accelerate the development of the whole community. Please feel invited to do a pull request and add any dataset, report, or video that can be intereting for the whole community.  
 
 ## Table of Contents:
 - [Datasets](#datasets)
