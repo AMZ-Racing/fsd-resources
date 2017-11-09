@@ -4,8 +4,11 @@ This repository is devoted to share resources among all Formula Student Driverle
 
 ## Table of Contents:
 - [Datasets](#datasets)
-	- [AMZ driverless 2017](#amz_driverless_2017)
+	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
+	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 
+- [Algorithms](#algorithms)
+	- [SERVO](#servo)
 - [Conference Papers & Journal Articles ](#papers)
 - [Reports](#reports)
 - [Videos](#videos)
@@ -37,7 +40,19 @@ This section is devoted to share data collected in, or related to, Formula Stude
   - imu : Contains the accelerometer and gyroscopes information in a sensor_msgs/Imu message type. This sensor is an SBG ellipse-N. The position of this sensor in the car frame is x = 0.0 m, y = 0.0 m. 
 
   - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Lattitue and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
- 
+
+<a name="amz_vision_2017"></a>
+## AMZ Vision 2017 Dataset
+  - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO)
+  
+<a name="algorithms"></a>
+# Algorithms
+
+<a name="servo"></a>
+## SERVO
+- SERVO is a robust SLAM extension to ORB-SLAM2. SERVO relies on additional odometry estimates provided in a ROS environment. At the time of writing, only stereo SLAM mode is supported. Find all the details in this [link](
+https://github.com/grafue/SERVO)
+
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
 This section is devoted to share Conference Pares and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
