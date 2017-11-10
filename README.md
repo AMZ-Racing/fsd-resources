@@ -1,6 +1,6 @@
 # Formula Student Driverless Resources
  
-This repository is devoted to share resources among all Formula Student Driverless teams as well as all other interested parts developing Software and Hardware for autonomous driving and racing. We believe driverless racing is a hard enough challenge and if we share some our achievments and resources we can accelerate the development of the whole community. Please feel invited to do a pull request and add any dataset, report, or video that can be intereting for the whole community.  
+This repository is devoted to share resources among all Formula Student Driverless teams as well as all other interested parts developing Software and Hardware for autonomous driving and racing. We believe driverless racing is a hard enough challenge and if we share some of our achievments and resources we can accelerate the development of the whole community. Please feel invited to do a pull request and add any dataset, report, or video that can be interesting for the whole community.  
 
 ## Table of Contents:
 - [Datasets](#datasets)
@@ -11,6 +11,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [SERVO](#servo)
 - [Conference Papers & Journal Articles ](#papers)
 - [Reports](#reports)
+- [Presentations](#presentations)
 - [Videos](#videos)
 ___
 <br>
@@ -60,6 +61,13 @@ This section is devoted to share Conference Pares and Journal Articles dealing w
 <a name="reports"></a>
 # Reports
 This section is devoted to share Reports dealing with or related to, Formula Student Driverless Vehicles.
+
+<a name="presentations"></a>
+# Presentations
+This section is devoted to share Presentations related to Formula Student Driverless Vehicles
+
+- AMZ driverless FSG Workshop concept presentations: [link]() is this private?
+- AMZ driverless ROSCON conference: Autonomous Racing Car for Formula Student Driverless [link](https://vimeo.com/236115599)
 
 <a name="videos"></a>
 # Videos
