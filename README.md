@@ -32,9 +32,9 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
 - In this rosbag one can find the following topics:
 
-  - velodyne_points : Contains the Lidar point returns in a sensor_msgs/PointCloud2 message type. The Lidar is a Velodyne Puck VLP16. The position of the LiDAR in car_frame is x= 1.6 m, y= 0.0 m.
+  - velodyne_points : Contains the Lidar point returns in a sensor_msgs/PointCloud2 message type. The Lidar is a Velodyne Puck VLP16 and the message are the individual packets sent by the sensor. The position of the LiDAR in car_frame is x= 1.6 m, y= 0.0 m.
 
-  - optical_speed_sensor: Contains ground speed data in a geometry_msgs/TwistStamped message type. This sensor is a Kistler Corevet SPII. The position of this sensor in the car frame is x= -0.41m y= 0.27 m.
+  - optical_speed_sensor: Contains ground speed data in a geometry_msgs/TwistStamped message type. This sensor is a Kistler Correvit SFII. The position of this sensor in the car frame is x= -0.41m y= 0.27 m.
 
   - wheel_rpm : contains the wheel speed data in a geometry_msgs/QuaternionStamped message type. x -> front left wheel, y -> front right wheel. z -> rear left wheel. w -> rear right wheel. The data is expressed in rpm's. The distance to thefront axel is 0.81m, to the rear axel 0.72m, and the wheelbase of the car is 1.2m.
 
