@@ -48,6 +48,7 @@ This section is devoted to share data collected in, or related to, Formula Stude
   
 <a name="algorithms"></a>
 # Algorithms
+This section is devoted to share Algorithms dealing with or related to, Formula Student Driverless Vehicles. They could be Visual pipelines, Lidar, estimation, control, etc..
 
 <a name="servo"></a>
 ## SERVO
