@@ -44,7 +44,7 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
-  - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO)
+  - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO/tree/master/Examples/ROS)
   
 <a name="algorithms"></a>
 # Algorithms
