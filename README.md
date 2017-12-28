@@ -59,6 +59,11 @@ https://github.com/grafue/SERVO)
 # Conference Papers & Journal Articles 
 This section is devoted to share Conference Pares and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
 
+- Design of an Autonomous Race Car for the Formula Student Driverless (FSD). Marcel Zeilinger, Raphael Hauk, Markus Bader and Alexander Hofmann. [link](https://info.tuwien.ac.at/mbader/publications/downloads/zeilinger2017.pdf)
+
+- Path following control for autonomous formula racecar: Autonomous formula student competition. Jun Ni and Jibin Hu. [link](http://ieeexplore.ieee.org/document/7995972/)
+
+
 <a name="reports"></a>
 # Reports
 This section is devoted to share Reports dealing with or related to, Formula Student Driverless Vehicles.
