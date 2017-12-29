@@ -68,6 +68,7 @@ This section is devoted to share Conference Pares and Journal Articles dealing w
 # Reports
 This section is devoted to share Reports dealing with or related to, Formula Student Driverless Vehicles.
 
+- Learning a CNN-based End-to-End Controller for a Formula SAE Racecar. [link](https://arxiv.org/abs/1708.02215)
 <a name="presentations"></a>
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
