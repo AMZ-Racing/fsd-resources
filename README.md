@@ -6,7 +6,8 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [Datasets](#datasets)
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
-
+- [Simulations](#sims)
+	- [EUFS Simulation](#eufs_sim)
 - [Algorithms](#algorithms)
 	- [SERVO](#servo)
 - [Conference Papers & Journal Articles ](#papers)
@@ -45,6 +46,14 @@ This section is devoted to share data collected in, or related to, Formula Stude
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
   - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO/tree/master/Examples/ROS)
+
+<a name="sims"></a>
+# Simulations
+This section is devoted to sharing simulations dealing with or related to, Formula Student Driverless Vehicles. This could be vehicle dynamic models, environment models, sensors, etc..
+
+<a name="eufs_sim"></a>
+## EUFS Simulation
+ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://github.com/eufsa/eufsa_sim). 
   
 <a name="algorithms"></a>
 # Algorithms
