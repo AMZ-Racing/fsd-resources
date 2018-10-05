@@ -67,9 +67,9 @@ https://github.com/grafue/SERVO)
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
 This section is devoted to share Conference Pares and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
+- Redundant Perception and State Estimation for Reliable Autonomous Racing.  Nikhil Gosala∗, Andreas Bühler*, Manish Prajapat∗, Claas Ehmke∗, Mehak Gupta∗,Ramya Sivanesan∗, Abel Gawel, Mark Pfeiffer, Mathias Bürki, Inkyu Sa, Renaud Dubé, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1809.10099.pdf)
 - Design of an Autonomous Racecar: Perception, State Estimation and System Integration. Miguel I. Valls*, Hubertus F.C. Hendrikx*, Victor J.F. Reijgwart*, Fabio V. Meier*, Inkyu Sa, Renaud Dubé, Abel Gawel, Mathias Bürki, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1804.03252.pdf)
 - Design of an Autonomous Race Car for the Formula Student Driverless (FSD). Marcel Zeilinger, Raphael Hauk, Markus Bader and Alexander Hofmann. [link](https://info.tuwien.ac.at/mbader/publications/downloads/zeilinger2017.pdf)
-
 - Path following control for autonomous formula racecar: Autonomous formula student competition. Jun Ni and Jibin Hu. [link](http://ieeexplore.ieee.org/document/7995972/)
 
 
@@ -97,6 +97,7 @@ This section is devoted to share videos related to Formula Student Driverless Ve
 
 <a name="videos_dv_algorithm"></a>
 ## Videos of Algorithms and Formula Student Driverless Vehicles
-
+- AMZ driverless explaining 2018 perception and estimation pipeline: [link](www.youtube.com/watch?v=ir_uqEYuT84)
+- AMZ driverless explaining 2017 perception and estimation pipeline: [link](https://youtu.be/NpLNJ5kC_G0)
 - AMZ driverless displaying trajectory: [link](https://www.youtube.com/watch?v=FbKLE7uar9Y)
 - EcurieAix driverless displaying cone detection and trajectory: [link](https://www.youtube.com/watch?v=4ah5aZ09i6g)
