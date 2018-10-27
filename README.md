@@ -7,7 +7,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 - [Algorithms](#algorithms)
-	- [MPCC] (#mpcc)
+	- [MPCC](#mpcc)
 	- [SERVO](#servo)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
