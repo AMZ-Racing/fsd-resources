@@ -9,6 +9,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [Algorithms](#algorithms)
 	- [MPCC](#mpcc)
 	- [SERVO](#servo)
+	- [FSD skeleton](#skeleton)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
 - [Conference Papers & Journal Articles ](#papers)
@@ -60,6 +61,14 @@ This section is devoted to share Algorithms dealing with or related to, Formula 
 ## SERVO
 - SERVO is a robust SLAM extension to ORB-SLAM2. SERVO relies on additional odometry estimates provided in a ROS environment. At the time of writing, only stereo SLAM mode is supported. Find all the details in this [link](
 https://github.com/grafue/SERVO)
+
+<a name="skeleton"></a>
+# FSD skeleton
+The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_skeleton), is an example framework for the code used on a FSD race car. Based on the autonomous software of fluela and gotthard driverless, the framework is built in ROS, and contains the structure and basic ROS nodes to illustrate how to organise an autonomous software stack. Some features are:
+- Easy build management
+- Custom aliases
+- Launchfiles for FSD missions
+- Dependency management
 
 
 <a name="sims"></a>
