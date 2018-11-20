@@ -63,7 +63,7 @@ This section is devoted to share Algorithms dealing with or related to, Formula 
 https://github.com/grafue/SERVO)
 
 <a name="skeleton"></a>
-# FSD skeleton
+## FSD skeleton
 The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_skeleton), is an example framework for the code used on a FSD race car. Based on the autonomous software of fluela and gotthard driverless, the framework is built in ROS, and contains the structure and basic ROS nodes to illustrate how to organise an autonomous software stack. Some features are:
 - Easy build management
 - Custom aliases
