@@ -97,8 +97,10 @@ This section is devoted to share Reports dealing with or related to, Formula Stu
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
 
-- AMZ driverless FSG Workshop concept presentations: [link](https://www.youtube.com/watch?v=26s4LH97kQE&feature=player_embedded)
+- AMZ driverless FSG Workshop 2018 concept presentations: [link](https://youtu.be/QCoBw-B_Z_4)
+- AMZ driverless FSG Workshop 2017 concept presentations: [link](https://youtu.be/26s4LH97kQE)
 - AMZ driverless ROSCON conference: Autonomous Racing Car for Formula Student Driverless [link](https://vimeo.com/236115599)
+
 
 <a name="videos"></a>
 # Videos
