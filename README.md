@@ -12,6 +12,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [FSD skeleton](#skeleton)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
+	- [FSSIM](#fssim)
 - [Conference Papers & Journal Articles ](#papers)
 - [Reports](#reports)
 - [Presentations](#presentations)
