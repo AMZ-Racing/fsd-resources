@@ -6,6 +6,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [Datasets](#datasets)
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
+	- [municHMotorsport Formula Student Objects in Context (FSOCO)](#munichmotorsports_fsoco)
 - [Algorithms](#algorithms)
 	- [MPCC](#mpcc)
 	- [SERVO](#servo)
@@ -49,6 +50,10 @@ This section is devoted to share data collected in, or related to, Formula Stude
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
   - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO/tree/master/Examples/ROS)
+
+<a name="munichmotorsports_fsoco"></a>
+## municHMotorsport Formula Student Objects in Context (FSOCO)
+  - Open-Source Dataset for Objects that need to be recognized during the dynamic disciplines of the Formula Student Driverless competitions, started by municHMotorsports, [link here](https://github.com/ddavid/fsoco)
 
 <a name="algorithms"></a>
 # Algorithms
