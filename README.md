@@ -7,6 +7,8 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 	- [municHMotorsport Formula Student Objects in Context (FSOCO)](#munichmotorsports_fsoco)
+- [SW Tools](#sw_tools)
+	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
 	- [MPCC](#mpcc)
 	- [SERVO](#servo)
@@ -114,6 +116,9 @@ This section is devoted to share Reports dealing with or related to, Formula Stu
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
 
+- All talks: FSG workshop 2019 (FSD starters): [link](https://www.youtube.com/playlist?list=PLtuNXpGOPQ_aeLQNxB4rLzfb8uktPABU9)
+- StarkStrom Augsburg FSG Workshop 2018 FPGA for image detection: [link](https://youtu.be/PhKWKzQZnZs)
+- MunichMotorsports FSG Workshop 2018 mono camera in FSD: [link](https://youtu.be/YWnheNLAhlk)
 - AMZ driverless FSG Workshop 2018 concept presentations: [link](https://youtu.be/QCoBw-B_Z_4)
 - AMZ driverless FSG Workshop 2017 concept presentations: [link](https://youtu.be/26s4LH97kQE)
 - AMZ driverless ROSCON conference: Autonomous Racing Car for Formula Student Driverless [link](https://vimeo.com/236115599)
