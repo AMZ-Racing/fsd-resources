@@ -11,7 +11,6 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
 	- [MPCC](#mpcc)
-	- [SERVO](#servo)
 	- [FSD skeleton](#skeleton)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
@@ -63,7 +62,7 @@ This section is devoted to share software tools related to or helpful in, Formul
 
 <a name="rbb"></a>
 ## Rosbag Bazaar
-- The Rosbag Bazaar (RBB) is a tool to index/visualize/manage rosbags on remote storage systems. Additionally it provides a web interface and framework for automated simulations. Is a tool helpful to anyone handling large amounts of rosbags and complex software pipelines in real robots. Find the code in this [link](https://github.com/AMZ-Driverless/rbb_core).
+- The Rosbag Bazaar (RBB) is a tool to index/visualize/manage rosbags on remote storage systems. Additionally it provides a web interface and framework for automated simulations. It is a tool helpful to anyone handling large amounts of rosbags and complex software pipelines in real robots. Find the code in this [link](https://github.com/AMZ-Driverless/rbb_core).
 
 <a name="algorithms"></a>
 # Algorithms
@@ -72,11 +71,6 @@ This section is devoted to share Algorithms dealing with or related to, Formula 
 <a name="mpcc"></a>
 ## MPCC
 - Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich. Find all the details in this [link](https://github.com/alexliniger/MPCC).
-
-<a name="servo"></a>
-## SERVO
-- SERVO is a robust SLAM extension to ORB-SLAM2. SERVO relies on additional odometry estimates provided in a ROS environment. At the time of writing, only stereo SLAM mode is supported. Find all the details in this [link](
-https://github.com/grafue/SERVO).
 
 <a name="skeleton"></a>
 ## FSD skeleton
