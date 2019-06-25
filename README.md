@@ -11,6 +11,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
 	- [MPCC](#mpcc)
+	- [Global Race Trajectory Optimization](#grto)
 	- [FSD skeleton](#skeleton)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
@@ -71,6 +72,10 @@ This section is devoted to share Algorithms dealing with or related to, Formula 
 <a name="mpcc"></a>
 ## MPCC
 - Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich. Find all the details in this [link](https://github.com/alexliniger/MPCC).
+
+<a name="grto"></a>
+## Global Race Trajectory Optimization
+- Global Race Trajectory Optimization developed by the chair of Automotive Technology of Technical University of Munich (TUM). Find all the details in this [link](https://github.com/TUMFTM/global_racetrajectory_optimization).
 
 <a name="skeleton"></a>
 ## FSD skeleton
