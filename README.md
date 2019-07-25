@@ -33,7 +33,7 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
 - The data comes in .bag format. This is the standard logging format for ROS and it can be easily imported to matlab using available tools. 
 
-- The Car reference frame is defined as (front, left, up) and has it is aligned and has its origin in the IMU reference frame. All the sensor's data are already aligned with the car. The data is given in International Sytem Units unless otherwise specified.
+- The car reference frame is defined as (front, left, up) and has its origin in the IMU reference frame. All the sensors' data are already aligned with the car. The data is given in International Sytem Units unless otherwise specified.
 
 - The data was collected in an airfiled in the outskirts of Zurich. The ground is mostly flat but there are some curved regions and bumps. There is high grass on the side of the of the road. The day was very sunny.
 
