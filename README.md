@@ -99,7 +99,8 @@ AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driver
 
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
-This section is devoted to share Conference Pares and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
+This section is devoted to share Conference Papers and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
+- Real-time 3D Traffic Cone Detection for Autonomous Driving. Ankit Dhall, Dengxin Dai, Luc Van Gool. [link](https://arxiv.org/abs/1902.02394)
 - AMZ Driverless: The Full Autonomous Racing System. Juraj Kabzan, Miguel I. Valls, Victor J.F. Reijgwart, Hubertus F.C. Hendrikx, Claas Ehmke, Manish Prajapat, Andreas Bühler, Nikhil Gosala, Mehak Gupta, Ramya Sivanesan, Ankit Dhall, Eugenio Chisari, Napat Karnchanachari, Sonja Brits, Manuel Dangel, Inkyu Sa, Renaud Dubé, Abel Gawel, Mark Pfeiffer, Alexander Liniger, John Lygeros and Roland Siegwart. [link](https://arxiv.org/pdf/1905.05150.pdf)
 - Redundant Perception and State Estimation for Reliable Autonomous Racing.  Nikhil Gosala∗, Andreas Bühler*, Manish Prajapat∗, Claas Ehmke∗, Mehak Gupta∗,Ramya Sivanesan∗, Abel Gawel, Mark Pfeiffer, Mathias Bürki, Inkyu Sa, Renaud Dubé, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1809.10099.pdf)
 - Design of an Autonomous Racecar: Perception, State Estimation and System Integration. Miguel I. Valls*, Hubertus F.C. Hendrikx*, Victor J.F. Reijgwart*, Fabio V. Meier*, Inkyu Sa, Renaud Dubé, Abel Gawel, Mathias Bürki, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1804.03252.pdf)
