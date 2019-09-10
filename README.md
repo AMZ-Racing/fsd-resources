@@ -13,6 +13,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [MPCC](#mpcc)
 	- [Global Race Trajectory Optimization](#grto)
 	- [FSD skeleton](#skeleton)
+	- [Python Robotics](#pythonrobotics)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
 	- [FSSIM](#fssim)
@@ -85,6 +86,9 @@ The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_
 - Launchfiles for FSD missions
 - Dependency management
 
+<a name="pythonrobotics"></a>
+## Python Robotics
+- Python code collection of robotics algorithms, especially for autonomous navigation. A great starting point to explore the main algorithms relevant to mobile robotics and Formula Student Driverless. Find all the details in this [link](https://github.com/AtsushiSakai/PythonRobotics).
 
 <a name="sims"></a>
 # Simulations
