@@ -10,7 +10,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [SW Tools](#sw_tools)
 	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
-        - [MIT Driverless Computer Vision](#mitcv)
+	- [MIT Driverless Computer Vision](#mitcv)
 	- [MPCC](#mpcc)
 	- [Global Race Trajectory Optimization](#grto)
 	- [FSD skeleton](#skeleton)
