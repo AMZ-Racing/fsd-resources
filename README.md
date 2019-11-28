@@ -10,6 +10,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [SW Tools](#sw_tools)
 	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
+        - [MIT Driverless Computer Vision](#mitcv)
 	- [MPCC](#mpcc)
 	- [Global Race Trajectory Optimization](#grto)
 	- [FSD skeleton](#skeleton)
@@ -69,6 +70,10 @@ This section is devoted to share software tools related to or helpful in, Formul
 <a name="algorithms"></a>
 # Algorithms
 This section is devoted to share Algorithms dealing with or related to, Formula Student Driverless Vehicles. They could be Visual pipelines, Lidar, estimation, control, etc..
+
+<a name="mitcv"></a>
+## MIT Driverless Compuer Vision
+- Pytorch pipeline of MIT Driverless Computer Vision. Find all the details in this [link](https://github.com/cv-core/MIT-Driverless-CV-Training-Infra).
 
 <a name="mpcc"></a>
 ## MPCC
