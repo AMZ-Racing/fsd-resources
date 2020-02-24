@@ -15,6 +15,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [Global Race Trajectory Optimization](#grto)
 	- [FSD skeleton](#skeleton)
 	- [Python Robotics](#pythonrobotics)
+	- [RRT path planning for track exploration](#rrtpathplan)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
 	- [FSSIM](#fssim)
@@ -95,6 +96,10 @@ The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_
 ## Python Robotics
 - Python code collection of robotics algorithms, especially for autonomous navigation. A great starting point to explore the main algorithms relevant to mobile robotics and Formula Student Driverless. Find all the details in this [link](https://github.com/AtsushiSakai/PythonRobotics).
 
+<a name="rrtpathplan"></a>
+## RRT path planning for track exploration
+- Code implementation of RRT-based path planning algorithm suitable for exploration of a trackdrive circuit. Find all the details in this [link](https://github.com/MaxMagazin/ma_rrt_path_plan).
+
 <a name="sims"></a>
 # Simulations
 This section is devoted to sharing simulations dealing with or related to, Formula Student Driverless Vehicles. This could be vehicle dynamic models, environment models, sensors, etc..
@@ -150,3 +155,4 @@ This section is devoted to share videos related to Formula Student Driverless Ve
 - AMZ driverless explaining 2017 perception and estimation pipeline: [link](https://youtu.be/NpLNJ5kC_G0)
 - AMZ driverless displaying trajectory: [link](https://www.youtube.com/watch?v=FbKLE7uar9Y)
 - EcurieAix driverless displaying cone detection and trajectory: [link](https://www.youtube.com/watch?v=4ah5aZ09i6g)
+- RRT exploration of [FSG'17](https://www.youtube.com/watch?v=jJAjrCig3yE) and [FSG'18](https://www.youtube.com/watch?v=kjssdifs0DQ) trackdrive circuits in Gazebo.
