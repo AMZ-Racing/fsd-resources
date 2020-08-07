@@ -49,7 +49,7 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
   - imu : Contains the accelerometer and gyroscopes information in a sensor_msgs/Imu message type. This sensor is an SBG ellipse-N. The position of this sensor in the car frame is x = 0.0 m, y = 0.0 m. 
 
-  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Lattitue and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
+  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Latitue and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
 
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
@@ -68,7 +68,7 @@ This section is devoted to share software tools related to or helpful in, Formul
 This section is devoted to share Algorithms dealing with or related to, Formula Student Driverless Vehicles. They could be Visual pipelines, Lidar, estimation, control, etc..
 
 <a name="mitcv"></a>
-## MIT Driverless Compuer Vision
+## MIT Driverless Computer Vision
 - Pytorch pipeline of MIT Driverless Computer Vision. Find all the details in this [link](https://github.com/cv-core/MIT-Driverless-CV-Training-Infra).
 
 <a name="mpcc"></a>
