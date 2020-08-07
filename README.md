@@ -49,7 +49,7 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
   - imu : Contains the accelerometer and gyroscopes information in a sensor_msgs/Imu message type. This sensor is an SBG ellipse-N. The position of this sensor in the car frame is x = 0.0 m, y = 0.0 m. 
 
-  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Latitue and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
+  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Latitude and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
 
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
