@@ -6,7 +6,6 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [Datasets](#datasets)
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
-	- [municHMotorsport Formula Student Objects in Context (FSOCO)](#munichmotorsports_fsoco)
 - [SW Tools](#sw_tools)
 	- [Rosbag Bazaar](#rbb)	
 - [Algorithms](#algorithms)
@@ -50,15 +49,11 @@ This section is devoted to share data collected in, or related to, Formula Stude
 
   - imu : Contains the accelerometer and gyroscopes information in a sensor_msgs/Imu message type. This sensor is an SBG ellipse-N. The position of this sensor in the car frame is x = 0.0 m, y = 0.0 m. 
 
-  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Lattitue and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
+  - gps : Contains the GPS information in sensor_msgs/NavSatFix message type. The data is expressed in degrees for Latitude and Longitude. The sensor is the same SBG ellipse-N used as IMU. 
 
 <a name="amz_vision_2017"></a>
 ## AMZ Vision 2017 Dataset
   - A Vision dataset taken on fluela driverless with all the details can be found in this [link](https://github.com/grafue/SERVO/tree/master/Examples/ROS)
-
-<a name="munichmotorsports_fsoco"></a>
-## municHMotorsport Formula Student Objects in Context (FSOCO)
-  - Open-Source Dataset for Objects that need to be recognized during the dynamic disciplines of the Formula Student Driverless competitions, started by municHMotorsports, [link here](https://github.com/ddavid/fsoco).
 
 <a name="sw_tools"></a>
 # SW Tools
@@ -73,7 +68,7 @@ This section is devoted to share software tools related to or helpful in, Formul
 This section is devoted to share Algorithms dealing with or related to, Formula Student Driverless Vehicles. They could be Visual pipelines, Lidar, estimation, control, etc..
 
 <a name="mitcv"></a>
-## MIT Driverless Compuer Vision
+## MIT Driverless Computer Vision
 - Pytorch pipeline of MIT Driverless Computer Vision. Find all the details in this [link](https://github.com/cv-core/MIT-Driverless-CV-Training-Infra).
 
 <a name="mpcc"></a>
@@ -113,7 +108,10 @@ AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driver
 
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
-This section is devoted to share Conference Papers and Journal Articles dealing with or related to, Formula Student Driverless Vehicles.
+This section is devoted to share Conference Papers and Journal Articles dealing with or related to Formula Student Driverless vehicles.
+- Accurate Mapping and Planning for Autonomous Racing. Leiv Andresen*, Adrian Brandemuehl*, Alex Hönger*, Benson Kuan*, Niclas Vödisch*, Hermann Blum, Victor Reijgwart, Lukas Bernreiter, Lukas Schaupp, Jen Jen Chung, Mathias Bürki, Martin R. Oswald, Roland Siegwart, Abel Gawel. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/2003.05266.pdf)
+- Optimization-Based Hierarchical Motion Planning for Autonomous Racing. José L. Vázquez*, Marius Brühlmeier*, Alexander Liniger*, Alisa Rupenyan, John Lygeros. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/2003.04882.pdf)
+- End-to-End Velocity Estimation For Autonomous Racing. Sirish Srinivasan, Inkyu Sa, Alex Zyner, Victor Reijgwart, Miguel I. Valls, Roland Siegwart. [link](https://arxiv.org/pdf/2003.06917.pdf)
 - Real-time 3D Traffic Cone Detection for Autonomous Driving. Ankit Dhall, Dengxin Dai, Luc Van Gool. [link](https://arxiv.org/abs/1902.02394)
 - AMZ Driverless: The Full Autonomous Racing System. Juraj Kabzan, Miguel I. Valls, Victor J.F. Reijgwart, Hubertus F.C. Hendrikx, Claas Ehmke, Manish Prajapat, Andreas Bühler, Nikhil Gosala, Mehak Gupta, Ramya Sivanesan, Ankit Dhall, Eugenio Chisari, Napat Karnchanachari, Sonja Brits, Manuel Dangel, Inkyu Sa, Renaud Dubé, Abel Gawel, Mark Pfeiffer, Alexander Liniger, John Lygeros and Roland Siegwart. [link](https://arxiv.org/pdf/1905.05150.pdf)
 - Redundant Perception and State Estimation for Reliable Autonomous Racing.  Nikhil Gosala∗, Andreas Bühler*, Manish Prajapat∗, Claas Ehmke∗, Mehak Gupta∗,Ramya Sivanesan∗, Abel Gawel, Mark Pfeiffer, Mathias Bürki, Inkyu Sa, Renaud Dubé, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1809.10099.pdf)
@@ -132,6 +130,7 @@ This section is devoted to share Reports dealing with or related to, Formula Stu
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
 
+- AMZ driverless FSG Workshop 2019 concept presentation: [link](https://youtu.be/PqP08iOvu1g)
 - All talks: FSG workshop 2019 (FSD starters): [link](https://www.youtube.com/playlist?list=PLtuNXpGOPQ_aeLQNxB4rLzfb8uktPABU9)
 - StarkStrom Augsburg FSG Workshop 2018 FPGA for image detection: [link](https://youtu.be/PhKWKzQZnZs)
 - MunichMotorsports FSG Workshop 2018 mono camera in FSD: [link](https://youtu.be/YWnheNLAhlk)
