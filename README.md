@@ -108,7 +108,7 @@ ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic
 AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driverless/fssim)
 
 ## FSDS
-Wouldn't it be amazing if you could testing your whole autonomous system, without going outside? [Formula Student Driverless Simulator](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator) tries to achive exactly that! FSDS is a community project with the goal to provide an end to end simulation for FS Driverless teams. It simulates all commonly used sensors and can connects with ros. This project has proven itsself during FSOnline 2020 where 4 driverless teams competed.
+Wouldn't it be amazing if you could testing your whole autonomous system, without going outside? [Formula Student Driverless Simulator](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator) tries to achieve exactly that! FSDS is a community project with the goal to provide an end to end simulation for FS Driverless teams. It simulates all commonly used sensors and can connects with ros. This project has proven itsself during FSOnline 2020 where 4 driverless teams competed.
 
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
