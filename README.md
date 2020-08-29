@@ -102,7 +102,7 @@ This section is devoted to sharing simulations dealing with or related to, Formu
 
 <a name="eufs_sim"></a>
 ## EUFS Simulation
-ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://github.com/eufsa/eufsa_sim). 
+ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://gitlab.com/eufs/eufs_sim).
 
 ## FSSIM
 AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driverless/fssim)
@@ -134,6 +134,7 @@ This section is devoted to share Reports dealing with or related to, Formula Stu
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
 
+- ARWo talks (recordings + slides, 2019 + 2020): [link](https://arwo.hamburg/talks/)
 - AMZ driverless FSG Workshop 2019 concept presentation: [link](https://youtu.be/PqP08iOvu1g)
 - All talks: FSG workshop 2019 (FSD starters): [link](https://www.youtube.com/playlist?list=PLtuNXpGOPQ_aeLQNxB4rLzfb8uktPABU9)
 - StarkStrom Augsburg FSG Workshop 2018 FPGA for image detection: [link](https://youtu.be/PhKWKzQZnZs)
