@@ -102,7 +102,7 @@ This section is devoted to sharing simulations dealing with or related to, Formu
 
 <a name="eufs_sim"></a>
 ## EUFS Simulation
-ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://github.com/eufsa/eufsa_sim). 
+ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://gitlab.com/eufs/eufs_sim).
 
 ## FSSIM
 AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driverless/fssim)
