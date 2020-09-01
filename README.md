@@ -4,6 +4,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 
 ## Table of Contents:
 - [Datasets](#datasets)
+	- [The FSOCO Dataset](#fsoco)
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 - [SW Tools](#sw_tools)
@@ -29,6 +30,14 @@ ___
 <a name="datasets"></a>
 # Datasets
 This section is devoted to share data collected in, or related to, Formula Student Driverless Vehicles.
+
+<a name="fsoco"></a>
+## The FSOCO Dataset
+- Website: [www.fsoco-dataset.com](https://www.fsoco-dataset.com)
+
+- The FSOCO dataset helps Formula Student / FSAE teams to get started with their visual perception system for driverless disciplines.
+
+- FSOCO contains bounding box and segmentation annotations from multiple teams and continues to grow thanks to numerous contributions from the Formula Student community.
 
 <a name="amz_driverless_2017"></a>
 ## AMZ Driverless 2017 Dataset
