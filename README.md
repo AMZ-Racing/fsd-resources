@@ -18,6 +18,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
 	- [FSSIM](#fssim)
+	- [FSDS](#fsds)
 - [Conference Papers & Journal Articles ](#papers)
 - [Reports](#reports)
 - [Presentations](#presentations)
@@ -101,10 +102,13 @@ This section is devoted to sharing simulations dealing with or related to, Formu
 
 <a name="eufs_sim"></a>
 ## EUFS Simulation
-ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://github.com/eufsa/eufsa_sim). 
+ROS/Gazebo simulation packages for driverless FSAE vehicles. It features a basic RWD Formula Student vehicle model, dynamic event tracks and highly configurable sensor packages. The repository can be found [here](https://gitlab.com/eufs/eufs_sim).
 
 ## FSSIM
 AMZ Driverless simulator which can be found [here](https://github.com/AMZ-Driverless/fssim)
+
+## FSDS
+Wouldn't it be amazing if you could testing your whole autonomous system, without going outside? [Formula Student Driverless Simulator](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator) tries to achieve exactly that! FSDS is a community project with the goal to provide an end to end simulation for FS Driverless teams. It simulates all commonly used sensors and can connects with ros. This project has proven itsself during FSOnline 2020 where 4 driverless teams competed.
 
 <a name="papers"></a>
 # Conference Papers & Journal Articles 
@@ -118,7 +122,7 @@ This section is devoted to share Conference Papers and Journal Articles dealing 
 - Design of an Autonomous Racecar: Perception, State Estimation and System Integration. Miguel I. Valls*, Hubertus F.C. Hendrikx*, Victor J.F. Reijgwart*, Fabio V. Meier*, Inkyu Sa, Renaud Dubé, Abel Gawel, Mathias Bürki, and Roland Siegwart. (*The authors contributed equally to this work ). [link](https://arxiv.org/pdf/1804.03252.pdf)
 - Design of an Autonomous Race Car for the Formula Student Driverless (FSD). Marcel Zeilinger, Raphael Hauk, Markus Bader and Alexander Hofmann. [link](https://info.tuwien.ac.at/mbader/publications/downloads/zeilinger2017.pdf)
 - Path following control for autonomous formula racecar: Autonomous formula student competition. Jun Ni and Jibin Hu. [link](http://ieeexplore.ieee.org/document/7995972/)
-- Accurate,  Low-Latency  Visual  Perception  for  Autonomous  Racing:Challenges,  Mechanisms,  and  Practical  Solutions. Kieran Strobel, Sibo Zhu, Raphael Chang and Skanda Koppula. [link](https://static1.squarespace.com/static/5b79970e3c3a53723fab8cfc/t/5dd31c1eb16d2c02ed66408d/1574116397888/Accurate__Low_Latency_Visual_Perception_for_Autonomous_Racing__Challenges__Mechanisms__and_Practical_Solutions_.pdf)
+- Accurate,  Low-Latency  Visual  Perception  for  Autonomous  Racing:Challenges,  Mechanisms,  and  Practical  Solutions. Kieran Strobel, Sibo Zhu, Raphael Chang and Skanda Koppula. [link](https://arxiv.org/abs/2007.13971)
 
 
 <a name="reports"></a>
@@ -130,6 +134,7 @@ This section is devoted to share Reports dealing with or related to, Formula Stu
 # Presentations
 This section is devoted to share Presentations related to Formula Student Driverless Vehicles
 
+- ARWo talks (recordings + slides, 2019 + 2020): [link](https://arwo.hamburg/talks/)
 - AMZ driverless FSG Workshop 2019 concept presentation: [link](https://youtu.be/PqP08iOvu1g)
 - All talks: FSG workshop 2019 (FSD starters): [link](https://www.youtube.com/playlist?list=PLtuNXpGOPQ_aeLQNxB4rLzfb8uktPABU9)
 - StarkStrom Augsburg FSG Workshop 2018 FPGA for image detection: [link](https://youtu.be/PhKWKzQZnZs)
