@@ -4,6 +4,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 
 ## Table of Contents:
 - [Datasets](#datasets)
+	- [The FSOCO Dataset](#fsoco)
 	- [AMZ Driverless 2017 Dataset](#amz_driverless_2017)
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 - [SW Tools](#sw_tools)
