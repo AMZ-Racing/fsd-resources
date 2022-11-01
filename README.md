@@ -16,6 +16,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [FSD skeleton](#skeleton)
 	- [Python Robotics](#pythonrobotics)
 	- [RRT path planning for track exploration](#rrtpathplan)
+	- [FT Path Planning Algorithm](#ftpathplanning)
 - [Simulations](#sims)
 	- [EUFS Simulation](#eufs_sim)
 	- [FSSIM](#fssim)
@@ -104,6 +105,10 @@ The FSD skeleton repository, found [here](https://github.com/AMZ-Driverless/fsd_
 <a name="rrtpathplan"></a>
 ## RRT path planning for track exploration
 - Code implementation of RRT-based path planning algorithm suitable for exploration of a trackdrive circuit. Find all the details in this [link](https://github.com/MaxMagazin/ma_rrt_path_plan).
+
+<a name="ftpathplanning"></a>
+## FT Path Planning Algorithm
+Path planning algorithm developed by FaSTTUBe during the 2021/22 season. It introduces a novel path planning appoach, that does not make use of RRT or Delaunay Triangulation. It is implemented in Python and takes advantage of the NumPy, SciPy and Numba libraries. It can be found [here](https://github.com/papalotis/ft-fsd-path-planning)
 
 <a name="sims"></a>
 # Simulations
