@@ -9,6 +9,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 - [SW Tools](#sw_tools)
 	- [Rosbag Bazaar](#rbb)	
+	- [Drawing to Layout](#dtl)
 - [Algorithms](#algorithms)
 	- [MIT Driverless Computer Vision](#mitcv)
 	- [MPCC](#mpcc)
@@ -72,6 +73,10 @@ This section is devoted to share software tools related to or helpful in, Formul
 <a name="rbb"></a>
 ## Rosbag Bazaar
 - The Rosbag Bazaar (RBB) is a tool to index/visualize/manage rosbags on remote storage systems. Additionally it provides a web interface and framework for automated simulations. It is a tool helpful to anyone handling large amounts of rosbags and complex software pipelines in real robots. Find the code in this [link](https://github.com/AMZ-Driverless/rbb_core).
+
+<a name="dtl"></a>
+## Drawing to Layout
+- This tool converts images to Formula Student Driverless Layouts with correct cone colors and plausible cone distances. It is used to quickly create track layouts that can be used to test the autonomous pipeline in simulations. The tool is hosted in the cloud and is accessible by anyone [here](https://drawing-to-fsd-layout.streamlit.app/). The source code can be found [here](https://github.com/papalotis/drawing-to-fsd-layout).
 
 <a name="algorithms"></a>
 # Algorithms
