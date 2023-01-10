@@ -9,7 +9,7 @@ This repository is devoted to share resources among all Formula Student Driverle
 	- [AMZ Vision 2017 Dataset ](#amz_vision_2017)
 - [SW Tools](#sw_tools)
 	- [Rosbag Bazaar](#rbb)	
-	- [Drawing to Layout)(#dtl)
+	- [Drawing to Layout](#dtl)
 - [Algorithms](#algorithms)
 	- [MIT Driverless Computer Vision](#mitcv)
 	- [MPCC](#mpcc)
@@ -76,7 +76,7 @@ This section is devoted to share software tools related to or helpful in, Formul
 
 <a name="dtl"></a>
 ## Drawing to Layout
-- This tool converts images to Formula Student Driverless Layouts with correct cone colors and plausible cone distances. The cloud is hosted in the cloud and is accessible by anyone [here](https://drawing-to-fsd-layout.streamlit.app/). The source code can be found [here](https://github.com/papalotis/drawing-to-fsd-layout)
+- This tool converts images to Formula Student Driverless Layouts with correct cone colors and plausible cone distances. The tool is hosted in the cloud and is accessible by anyone [here](https://drawing-to-fsd-layout.streamlit.app/). The source code can be found [here](https://github.com/papalotis/drawing-to-fsd-layout).
 
 <a name="algorithms"></a>
 # Algorithms
