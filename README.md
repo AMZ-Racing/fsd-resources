@@ -76,7 +76,7 @@ This section is devoted to share software tools related to or helpful in, Formul
 
 <a name="dtl"></a>
 ## Drawing to Layout
-- This tool converts images to Formula Student Driverless Layouts with correct cone colors and plausible cone distances. The tool is hosted in the cloud and is accessible by anyone [here](https://drawing-to-fsd-layout.streamlit.app/). The source code can be found [here](https://github.com/papalotis/drawing-to-fsd-layout).
+- This tool converts images to Formula Student Driverless Layouts with correct cone colors and plausible cone distances. It is used to quickly create track layouts that can be used to test the autonomous pipeline in simulations. The tool is hosted in the cloud and is accessible by anyone [here](https://drawing-to-fsd-layout.streamlit.app/). The source code can be found [here](https://github.com/papalotis/drawing-to-fsd-layout).
 
 <a name="algorithms"></a>
 # Algorithms
